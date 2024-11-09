@@ -2,16 +2,16 @@
 Allam hackathon hwarat team
 
 
-### Installation
+# Installation
 
-# Step 1
+### Step 1
 Download the files
 
-# Step 2
+### Step 2
 Make sure that you are using 
   Flutter SDK 3.24.3 
   Gradle wrapper gradle-8.3-all
   
-# Step 3
+### Step 3
 Run the build
 
