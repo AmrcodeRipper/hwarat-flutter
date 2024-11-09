@@ -15,3 +15,5 @@ Make sure that you are using
 ### Step 3
 Run the build
 
+Please contact Amr Almasri for any help
+
